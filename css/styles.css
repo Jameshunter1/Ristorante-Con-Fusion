@@ -37,3 +37,26 @@ body {
 .navbar-dark {
   background-color: #512dab;
 }
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px;
+}
+.row {
+  padding: 30px;
+}
+
+.card-title {
+  color: white;
+}
+
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
+.form {
+  color: white;
+}
