@@ -16,7 +16,6 @@ To get started with this project, simply clone the repository and open the index
 # Technologies Used
 
 - Bootstrap
-- JavaScript
 - HTML
 - CSS
 - SCSS
