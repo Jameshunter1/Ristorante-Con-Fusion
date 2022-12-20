@@ -1,6 +1,6 @@
 # Ristorante-Con-Fusion
 
-This project is a JavaScript application that demonstrates my skills in the language as well as the Bootstrap framework. It includes a few basic features and is intended as a portfolio piece.
+This project is a Multi-page restaurant website that demonstrates my skills in using the Bootstrap framework. It includes a few basic features and is intended as a portfolio piece.
 
 # Getting Started
 
