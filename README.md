@@ -26,3 +26,10 @@ To get started with this project, simply clone the repository and open the index
 ![image](https://user-images.githubusercontent.com/90528783/199347437-92952dfa-b578-40ab-9ed3-600c5e3d8738.png)
 
 
+## Acknowledgments
+
+- [Bootstrap](https://getbootstrap.com/)
+- [Coursera](https://coursera.org/)
+- License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
